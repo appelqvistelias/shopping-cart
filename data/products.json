@@ -1,0 +1,24 @@
+{
+    "catalog": [
+        { "id": 1, "name": "Dune", "category": "Book", "price": 149.90 },
+        { "id": 2, "name": "The Expanse: Leviathan Wakes", "category": "Book", "price": 129.90 },
+        { "id": 3, "name": "Foundation", "category": "Book", "price": 109.90 },
+        { "id": 4, "name": "Neuromancer", "category": "Book", "price": 99.90 },
+        { "id": 5, "name": "Snow Crash", "category": "Book", "price": 119.90 },
+        { "id": 6, "name": "Hyperion", "category": "Book", "price": 139.90 },
+        { "id": 7, "name": "Twilight Imperium 4th Edition", "category": "Board Game", "price": 1499.90 },
+        { "id": 8, "name": "Nemesis", "category": "Board Game", "price": 1199.90 },
+        { "id": 9, "name": "Terraforming Mars", "category": "Board Game", "price": 699.90 },
+        { "id": 10, "name": "Star Wars: Rebellion", "category": "Board Game", "price": 999.90 },
+        { "id": 11, "name": "Eclipse: Second Dawn for the Galaxy", "category": "Board Game", "price": 1299.90 },
+        { "id": 12, "name": "Gaia Project", "category": "Board Game", "price": 799.90 },
+        { "id": 13, "name": "Ark Nova", "category": "Board Game", "price": 649.90 },
+        { "id": 14, "name": "On Mars", "category": "Board Game", "price": 949.90 },
+        { "id": 15, "name": "Anachrony", "category": "Board Game", "price": 899.90 },
+        { "id": 16, "name": "Voidfall", "category": "Board Game", "price": 1399.90 },
+        { "id": 17, "name": "Red Rising", "category": "Board Game", "price": 349.90 },
+        { "id": 18, "name": "Dune: Imperium", "category": "Board Game", "price": 599.90 },
+        { "id": 19, "name": "The Crew: Mission Deep Sea", "category": "Board Game", "price": 149.90 },
+        { "id": 20, "name": "Cosmic Encounter", "category": "Board Game", "price": 499.90 }
+    ]
+}
