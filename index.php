@@ -1,17 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
+<?php
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+declare(strict_types=1);
 
-    <link href="assets/css/style.css" rel="stylesheet">
+require __DIR__ . '/init.php';
 
-    <title>Shopping Cart</title>
-</head>
-
-<body>
-
-</body>
-
-</html>
+header('Location: controllers/catalog.php');
+exit;
